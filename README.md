@@ -300,6 +300,28 @@ UniSkill Nexus combines:
 This creates a complete student growth ecosystem instead of only a tutorial website.
 
 ---
+# Website Preview
+
+## Hero Section
+![Hero Section](screenshots/Hero Section.png)
+
+## About Section
+![About Section](screenshots/About Section.png)
+
+## Feature Section
+![Feature Section](screenshots/Feature Section.png)
+
+## Skill Section
+![Skill Section](screenshots/Skill Scetion.png)
+
+## Project Section
+![Project Section](screenshots/Project Scetion.png)
+
+## Resource Section
+![Resource Section](screenshots/Resource Section.png)
+
+## Platform Workflow
+![Workflow](screenshots/working.png)
 
 # Conclusion
 
