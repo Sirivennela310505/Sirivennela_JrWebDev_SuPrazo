@@ -312,10 +312,10 @@ This creates a complete student growth ecosystem instead of only a tutorial webs
 ![Feature Section](screenshots/Feature Section.png)
 
 ## Skill Section
-![Skill Section](screenshots/Skill Scetion.png)
+![Skill Section](screenshots/Skill Section.png)
 
 ## Project Section
-![Project Section](screenshots/Project Scetion.png)
+![Project Section](screenshots/Project Section.png)
 
 ## Resource Section
 ![Resource Section](screenshots/Resource Section.png)
