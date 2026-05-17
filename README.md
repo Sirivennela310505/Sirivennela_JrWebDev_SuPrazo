@@ -303,22 +303,22 @@ This creates a complete student growth ecosystem instead of only a tutorial webs
 # Website Preview
 
 ## Hero Section
-![Hero Section](screenshots/Hero Section.png)
+![Hero Section](screenshots/HeroSection.png)
 
 ## About Section
-![About Section](screenshots/About Section.png)
+![About Section](screenshots/AboutSection.png)
 
 ## Feature Section
-![Feature Section](screenshots/Feature Section.png)
+![Feature Section](screenshots/FeatureSection.png)
 
 ## Skill Section
-![Skill Section](screenshots/Skill Section.png)
+![Skill Section](screenshots/SkillSection.png)
 
 ## Project Section
-![Project Section](screenshots/Project Section.png)
+![Project Section](screenshots/ProjectSection.png)
 
 ## Resource Section
-![Resource Section](screenshots/Resource Section.png)
+![Resource Section](screenshots/ResourceSection.png)
 
 ## Platform Workflow
 ![Workflow](screenshots/working.png)
